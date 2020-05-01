@@ -1,0 +1,22 @@
+{
+  "name": "@kbob/tlinq",
+  "version": "1.0.0",
+  "description": "Linq type extensions for javascript objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiran-bobade/javascript-linq.git"
+  },
+  "keywords": [
+    "javascript-utility"
+  ],
+  "author": "Kiran Bobade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiran-bobade/javascript-linq/issues"
+  },
+  "homepage": "https://github.com/kiran-bobade/javascript-linq#readme"
+}
